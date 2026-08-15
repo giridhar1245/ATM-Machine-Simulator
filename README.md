@@ -51,36 +51,6 @@ ATM-Machine-Simulator
 
 > These are demo accounts for testing only. They are not real banking credentials.
 
-## How to Run
-
-### 1. Install Python
-
-Make sure Python 3 is installed on your computer.
-
-### 2. Download or clone the repository
-
-```bash
-git clone https://github.com/giridhar1245/ATM-Machine-Simulator.git
-```
-
-### 3. Open the project folder
-
-```bash
-cd ATM-Machine-Simulator
-```
-
-### 4. Run the program
-
-```bash
-python atm_machine.py
-```
-
-If `python` does not work on Windows, try:
-
-```bash
-py atm_machine.py
-```
-
 ## ATM Operations
 
 ### 1. Balance Enquiry
@@ -115,7 +85,7 @@ Displays available cash in the ATM and indicates whether the cash level is norma
 - Input validation
 - Demo credentials only
 
-## Resume Project Description
+## Project Description
 
 **ATM Machine Simulator:** Developed a Python-based ATM simulation system using Object-Oriented Programming. Implemented PIN authentication, account locking, balance enquiry, cash withdrawal, cash deposit, PIN change, transaction history, transaction fees, daily withdrawal limits, session timeout, and input validation.
 
